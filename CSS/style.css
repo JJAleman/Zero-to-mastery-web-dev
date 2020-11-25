@@ -1,0 +1,36 @@
+/*Selector {
+	Property: Value;
+}*/
+
+body {
+	background-image: url(weimaraner.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color: red;
+	text-align: center;
+	border: 5px solid #08369F;
+	cursor: pointer;
+}
+
+p {
+	color: #4976DE;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext {
+	color: #1253E8;	
+}
+
+.active {
+	color: lime;
+}
+
+#div1 {
+	background: rgba(0, 0, 50.2, .5);
+}
