@@ -12,3 +12,4 @@ function length(str) {
 function cubes(a) {
 	return a ** 3;
 }
+
