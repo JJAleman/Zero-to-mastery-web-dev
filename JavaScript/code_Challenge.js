@@ -13,3 +13,8 @@ function cubes(a) {
 	return a ** 3;
 }
 
+// Create a function that takes the age and return the age in days.
+
+function calcAge(age) {
+	return age * 365
+}
